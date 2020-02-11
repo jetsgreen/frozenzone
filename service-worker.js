@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/frozenzone/precache-manifest.d5f3f6a608f744ddf5038a7b2adc5c67.js"
+  "/frozenzone/precache-manifest.97bad63d294e134436b93fd76eaec79f.js"
 );
 
 self.addEventListener('message', (event) => {

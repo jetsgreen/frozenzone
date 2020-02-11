@@ -1,6 +1,6 @@
 {
  "homepage": "https://jetsgreen.github.io/frozenzone/",
-  "name": "clicky",
+  "name": "frozenzone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,10 +12,10 @@
     "react-scripts": "3.3.1"
   },
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
-    "build": "react-scripts build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frozenzone/static/css/main.2732d8f8.chunk.css",
+    "main.js": "/frozenzone/static/js/main.fe0873f2.chunk.js",
+    "main.js.map": "/frozenzone/static/js/main.fe0873f2.chunk.js.map",
+    "runtime-main.js": "/frozenzone/static/js/runtime-main.41f0993a.js",
+    "runtime-main.js.map": "/frozenzone/static/js/runtime-main.41f0993a.js.map",
+    "static/js/2.678eb951.chunk.js": "/frozenzone/static/js/2.678eb951.chunk.js",
+    "static/js/2.678eb951.chunk.js.map": "/frozenzone/static/js/2.678eb951.chunk.js.map",
+    "index.html": "/frozenzone/index.html",
+    "precache-manifest.d5f3f6a608f744ddf5038a7b2adc5c67.js": "/frozenzone/precache-manifest.d5f3f6a608f744ddf5038a7b2adc5c67.js",
+    "service-worker.js": "/frozenzone/service-worker.js",
+    "static/css/main.2732d8f8.chunk.css.map": "/frozenzone/static/css/main.2732d8f8.chunk.css.map",
+    "static/js/2.678eb951.chunk.js.LICENSE.txt": "/frozenzone/static/js/2.678eb951.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41f0993a.js",
+    "static/js/2.678eb951.chunk.js",
+    "static/css/main.2732d8f8.chunk.css",
+    "static/js/main.fe0873f2.chunk.js"
+  ]
+}
